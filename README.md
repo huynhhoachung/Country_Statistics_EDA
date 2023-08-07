@@ -4,7 +4,7 @@ A Comprehensive Dataset Empowering In-Depth Analysis and Cross-Country Insights
 This comprehensive dataset provides a wealth of information about all countries worldwide, covering a wide range of indicators and attributes. It encompasses demographic statistics, economic indicators, environmental factors, healthcare metrics, education statistics, and much more. With every country represented, this dataset offers a complete global perspective on various aspects of nations, enabling in-depth analyses and cross-country comparisons.
 # Features of the dataset
 ```
-**Country:** Name of the country.( <br> )
+**Country:** Name of the country.
 **Density (P/Km2):** Population density measured in persons per square kilometer.( <br> )
 **Abbreviation:** Abbreviation or code representing the country.( <br> )
 **Agricultural Land (%):** Percentage of land area used for agricultural purposes.( <br> )

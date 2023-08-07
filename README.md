@@ -3,7 +3,6 @@ A Comprehensive Dataset Empowering In-Depth Analysis and Cross-Country Insights
 # About dataset
 This comprehensive dataset provides a wealth of information about all countries worldwide, covering a wide range of indicators and attributes. It encompasses demographic statistics, economic indicators, environmental factors, healthcare metrics, education statistics, and much more. With every country represented, this dataset offers a complete global perspective on various aspects of nations, enabling in-depth analyses and cross-country comparisons.
 # Features of the dataset
-```
 **Country:** Name of the country.
 **Density (P/Km2):** Population density measured in persons per square kilometer.( <br> )
 **Abbreviation:** Abbreviation or code representing the country.( <br> )
@@ -39,5 +38,4 @@ This comprehensive dataset provides a wealth of information about all countries 
 **Urban Population:** Percentage of the population living in urban areas.( <br> )
 **Latitude:** Latitude coordinate of the country's location.( <br> )
 **Longitude:** Longitude coordinate of the country's location.( <br> )
-```
 ### Reference: https://www.kaggle.com/datasets/nelgiriyewithana/countries-of-the-world-2023

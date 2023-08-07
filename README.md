@@ -27,10 +27,10 @@ This comprehensive dataset provides a wealth of information about all countries 
 **Life Expectancy:** Average number of years a newborn is expected to live.<br>
 **Maternal Mortality Ratio:** Number of maternal deaths per 100,000 live births.<br>
 **Minimum Wage:** Minimum wage level in local currency.<br>
-**Official Language: **Official language(s) spoken in the country.<br>
+**Official Language:** Official language(s) spoken in the country.<br>
 **Out of Pocket Health Expenditure (%):** Percentage of total health expenditure paid out-of-pocket by individuals.<br>
 **Physicians per Thousand:** Number of physicians per thousand people.<br>
-**Population: **Total population of the country.<br>
+**Population:** Total population of the country.<br>
 **Population: Labor Force Participation (%):** Percentage of the population that is part of the labor force.<br>
 **Tax Revenue (%):** Tax revenue as a percentage of GDP.<br>
 **Total Tax Rate:** Overall tax burden as a percentage of commercial profits.<br>

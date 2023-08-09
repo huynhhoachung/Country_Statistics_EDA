@@ -36,5 +36,23 @@ This comprehensive dataset provides a wealth of information about all countries 
 - **Urban Population:** Percentage of the population living in urban areas.<br>
 - **Latitude:** Latitude coordinate of the country's location.<br>
 - **Longitude:** Longitude coordinate of the country's location.<br>
-### Full report: https://drive.google.com/drive/u/2/folders/1058yW5qHzHOWZH6bx3lizm_vH72G5fP1
 ### Reference: https://www.kaggle.com/datasets/nelgiriyewithana/countries-of-the-world-2023
+# Some interesting insight from the report
+### While most top life expectancy countries came from various regions, over 12 countries were in Europe.
+<p>
+<img width="400" alt="Screen Shot 2023-08-09 at 22 14 49" src="https://github.com/huynhhoachung/Country_Statistics_EDA/assets/65808912/3d5043df-db30-43f4-821f-0a907a419274">
+</p>
+
+### In terms of birth rate, more than 10 out of the top 20 countries are from Africa with an average of approximately 38% birth rate average, a 20% higher average compared to the rest of the countries from other continents.
+### On the other hand, the Infant mortality rate is also extremely high with the highest rate followed by Central Africa Republic, Nigeria, and Somalia.
+### When came to Maternal mortality, we see a shift in the top 20 but remains highly still in Africa.
+<p>
+<img width="300" alt="Screen Shot 2023-08-10 at 00 41 40" src="https://github.com/huynhhoachung/Country_Statistics_EDA/assets/65808912/fe5d293a-26fb-4475-9681-89a4374e4650"><img width="300" alt="Screen Shot 2023-08-10 at 00 41 47" src="https://github.com/huynhhoachung/Country_Statistics_EDA/assets/65808912/4222f8aa-a53b-44c1-afb1-4b89562c347f"><img width="300" alt="Screen Shot 2023-08-10 at 01 00 41" src="https://github.com/huynhhoachung/Country_Statistics_EDA/assets/65808912/bdc7594a-989a-41e1-b5cd-e41201945746">
+</p>
+
+### With education, no surprise that most top countries came from Europe. While the Gross Primary education enrollment remains stable for the top 20, there is a significant change in Gross tertiary education enrollment with the dramatic drop in Luxembourg and Liechtenstein w
+<p><img width="300" alt="Screen Shot 2023-08-10 at 01 06 34" src="https://github.com/huynhhoachung/Country_Statistics_EDA/assets/65808912/c4027d7b-0f86-4302-a111-8787b762ece3"><img width="300" alt="Screen Shot 2023-08-10 at 01 08 21" src="https://github.com/huynhhoachung/Country_Statistics_EDA/assets/65808912/a23370b0-5465-4299-87da-0ca8a4002ab8">
+</p>
+ 
+
+

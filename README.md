@@ -54,5 +54,3 @@ This comprehensive dataset provides a wealth of information about all countries 
 <p><img width="300" alt="Screen Shot 2023-08-10 at 01 06 34" src="https://github.com/huynhhoachung/Country_Statistics_EDA/assets/65808912/c4027d7b-0f86-4302-a111-8787b762ece3"><img width="300" alt="Screen Shot 2023-08-10 at 01 08 21" src="https://github.com/huynhhoachung/Country_Statistics_EDA/assets/65808912/a23370b0-5465-4299-87da-0ca8a4002ab8">
 </p>
 
-### Link to the full report: Will be updated later
-
